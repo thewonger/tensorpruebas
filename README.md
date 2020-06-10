@@ -1,3 +1,0 @@
-# tensorpruebas
-
-Pruebas con Tensorflow
