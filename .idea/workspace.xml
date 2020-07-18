@@ -20,20 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1be44c3-1563-4365-8aef-525835793c68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Teoria-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled9-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primer.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teoria.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled Folder/.ipynb_checkpoints/FashionMnist-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled Folder/.ipynb_checkpoints/Primera Semana-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled Folder/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled Folder/FashionMnist.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled Folder/Primera Semana.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled Folder/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled9.ipynb" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP/Prueba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +39,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cxJ4RYndEh6mbIuiU2iCn1tfFq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,22 +47,27 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NLP/Prueba.py" />
   </component>
-  <component name="RunManager">
-    <configuration name="Hola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jorge\Desktop\tensorpruebas\IntroductionToTensorflow" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Prueba">
+    <configuration name="Prueba" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
       <module name="tensorpruebas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Untitled Folder" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Jorge\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Untitled Folder/Hola.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/Prueba.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,11 +76,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.Hola" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="tensorpruebas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Jorge\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/Prueba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="aws.ecs.cloud-debug" nameIsGenerated="true">
+      <option name="credentialProviderId" />
+      <option name="regionId" value="us-east-1" />
+      <option name="clusterArn" />
+      <option name="containerOptions">
+        <map />
+      </option>
+      <option name="serviceArn" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="AWS ECS Service Cloud Debug (Beta).Unnamed" />
+      <item itemvalue="Python.Prueba" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -114,29 +138,41 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592443124124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592443124124" />
     <state x="522" y="173" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591639715065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="522" y="173" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1591639715065" />
-    <state width="1364" height="189" key="GridCell.Tab.0.bottom" timestamp="1591773039540">
+    <state x="771" y="170" key="FileChooserDialogImpl" timestamp="1592443060602">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="771" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592443060602" />
+    <state width="745" height="203" key="GridCell.Tab.0.bottom" timestamp="1592499490262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1362" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591464198358" />
-    <state width="1364" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1591773039540" />
-    <state width="1364" height="189" key="GridCell.Tab.0.center" timestamp="1591773039540">
+    <state width="745" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592499490262" />
+    <state width="745" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592443302189" />
+    <state width="745" height="203" key="GridCell.Tab.0.center" timestamp="1592499490262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1362" height="194" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591464198358" />
-    <state width="1364" height="189" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1591773039540" />
-    <state width="1364" height="189" key="GridCell.Tab.0.left" timestamp="1591773039540">
+    <state width="745" height="203" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592499490262" />
+    <state width="745" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592443302189" />
+    <state width="745" height="203" key="GridCell.Tab.0.left" timestamp="1592499490262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1362" height="194" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591464198357" />
-    <state width="1364" height="189" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1591773039540" />
-    <state width="1364" height="189" key="GridCell.Tab.0.right" timestamp="1591773039540">
+    <state width="745" height="203" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592499490262" />
+    <state width="745" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592443302188" />
+    <state width="745" height="203" key="GridCell.Tab.0.right" timestamp="1592499490262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1362" height="194" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591464198358" />
-    <state width="1364" height="189" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1591773039540" />
+    <state width="745" height="203" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592499490262" />
+    <state width="745" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592443302189" />
   </component>
 </project>
